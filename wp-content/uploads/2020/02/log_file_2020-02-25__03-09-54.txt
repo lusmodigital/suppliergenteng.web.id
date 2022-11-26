@@ -1,0 +1,30 @@
+
+---Downloaded files---
+The import files for: Architect were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://suppliergenteng.web.id
+Data file = /home/suppliergenteng/public_html/wp-content/plugins/sierra-addons/demo-data/architect/content.xml
+Widget file = /home/suppliergenteng/public_html/wp-content/plugins/sierra-addons/demo-data/architect/widgets.wie
+Customizer file = /home/suppliergenteng/public_html/wp-content/plugins/sierra-addons/demo-data/architect/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Archives - No Title - Imported
+Recent Posts - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
